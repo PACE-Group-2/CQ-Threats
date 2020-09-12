@@ -1,0 +1,92 @@
+Timestamp,tweet_text,Username,User_loc,All_hashtags,UserID_verified,followers_count
+2020-09-12 09:24:21,"b""[ThreatPost] APT28 Mounts Rapid, Large-Scale Theft of Office 365 Logins --&gt; The Russia-linked threat group is harvesting credentials for Microsoft's cloud offering, and targeting mainly election-related organizations. by Tara Seals #ThreatPost https://t.co/3pCOpAvFE6""",b'gastronomy',"b'Bangkok, Thailand'",['ThreatPost'],False,1409
+2020-09-12 03:36:26,b'IcedID #Trojan Rebooted with New Evasive Tactics https://t.co/IdFWrsiFMh #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',"['Trojan', 'Threatpost']",False,7663
+2020-09-11 23:15:09,b'#Office 365 #Phishing Attack Leverages Real-Time Active Directory Validation https://t.co/K5Ll8NjJoq #Threatpost',b'SecurityNewsbot',b'Internet',"['Office', 'Phishing', 'Threatpost']",False,12319
+2020-09-11 22:15:09,"b'APT28 Mounts Rapid, Large-Scale Theft of #Office 365 Logins https://t.co/67k92lHQnQ #Threatpost'",b'SecurityNewsbot',b'Internet',"['Office', 'Threatpost']",False,12319
+2020-09-11 21:28:17,"b'APT28 Mounts Rapid, Large-Scale Theft of Office 365 Logins https://t.co/V0u4TsTDMc #ThreatPost'",b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-11 21:28:16,b'Office 365 Phishing Attack Leverages Real-Time Active Directory Validation https://t.co/f9BmQeropv #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-11 20:06:03,b'Researchers Warn of Active #Malware Campaign Using HTML Smuggling https://t.co/HbhL0n25r5 #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',"['Malware', 'Threatpost']",False,7663
+2020-09-11 19:30:09,b'It\xe2\x80\x99s No \xe2\x80\x98Giggle\xe2\x80\x99: Managing Expectations for #Vulnerability #Disclosure https://t.co/TDgPbsr5nW #Threatpost',b'SecurityNewsbot',b'Internet',"['Vulnerability', 'Disclosure', 'Threatpost']",False,12319
+2020-09-11 19:28:17,b'It\xe2\x80\x99s No \xe2\x80\x98Giggle\xe2\x80\x99: Managing Expectations for Vulnerability Disclosure https://t.co/IEJlDjzz1o #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-11 18:45:08,b'Product Overview: Cynet Takes Cyber Threat Protection Automation to the Next Level with Incident Engine https://t.co/lV8HSAM1js #Threatpost',b'SecurityNewsbot',b'Internet',['Threatpost'],False,12319
+2020-09-11 17:28:21,b'WordPress Plugin Flaw Allows Attackers to Forge Emails https://t.co/fKRa56SJUM #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-11 16:45:08,b'#WordPress Plugin #Flaw Allows Attackers to Forge Emails https://t.co/1kjt2UJDr9 #Threatpost',b'SecurityNewsbot',b'Internet',"['WordPress', 'Flaw', 'Threatpost']",False,12319
+2020-09-11 15:35:49,"b'Large Orgs Plagued with Bugs, Face Giant Patch Backlogs https://t.co/LcpPvsVGMG #Threatpost via @SecurityNewsbot'",b'CyberSecDN',b'',['Threatpost'],False,7663
+2020-09-11 10:05:33,b'AWS Cryptojacking Worm Spreads Through the #Cloud https://t.co/OIwXV8Jvkc #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',"['Cloud', 'Threatpost']",False,7663
+2020-09-11 00:06:19,b'EmoCrash #Exploit Stoppered Emotet For 6 Months https://t.co/te3Puv4wZ0 #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',"['Exploit', 'Threatpost']",False,7663
+2020-09-10 23:30:08,b'Razer Gaming Fans Caught Up in #Data Leak https://t.co/Pe8uD7JGNL #Threatpost',b'SecurityNewsbot',b'Internet',"['Data', 'Threatpost']",False,12319
+2020-09-10 21:28:10,"b'Microsoft Warns of Cyberattacks on Trump, Biden Election Campaigns https://t.co/nyDQTuiQwk #ThreatPost'",b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-10 21:28:09,b'Razer Gaming Fans Caught Up in Data Leak https://t.co/ui5S5XWyHn #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-10 21:15:09,"b'#Microsoft Warns of Cyberattacks on Trump, Biden Election Campaigns https://t.co/MgXEI0mgGg #Threatpost'",b'SecurityNewsbot',b'Internet',"['Microsoft', 'Threatpost']",False,12319
+2020-09-10 20:30:09,b'Bluetooth Bug Opens Devices to Man-in-the-Middle Attacks https://t.co/WlppCbGFWY #Threatpost',b'SecurityNewsbot',b'Internet',['Threatpost'],False,12319
+2020-09-10 17:28:07,b'Bluetooth Bug Opens Devices to Man-in-the-Middle Attacks https://t.co/hHd7bwnnZq #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-10 16:15:09,b'Govt.-Backed Contact-Tracing Apps Raise #Privacy Hackles https://t.co/gWuwguh7Ox #Threatpost',b'SecurityNewsbot',b'Internet',"['Privacy', 'Threatpost']",False,12319
+2020-09-10 15:45:09,b'#Ransomware And Zoom-Bombing: Cyberattacks Disrupt Back-to-School Plans https://t.co/K8OA6Xa9Xl #Threatpost',b'SecurityNewsbot',b'Internet',"['Ransomware', 'Threatpost']",False,12319
+2020-09-10 14:28:23,b'Ransomware And Zoom-Bombing: Cyberattacks Disrupt Back-to-School Plans https://t.co/8wF5We1nNS #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-10 14:28:23,b'Govt.-Backed Contact-Tracing Apps Raise Privacy Hackles https://t.co/nGrl4Dda7b #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-10 13:28:27,b'Product Overview: Cynet Takes Cyber Threat Protection Automation to the Next Level with Incident Engine https://t.co/YtQsAfiLta #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-10 11:00:08,b'CDRThief #Malware Targets VoIP Gear in Carrier Networks https://t.co/DPxD6vP0Ep #Threatpost',b'SecurityNewsbot',b'Internet',"['Malware', 'Threatpost']",False,12319
+2020-09-10 10:28:25,b'CDRThief Malware Targets VoIP Gear in Carrier Networks https://t.co/SoEfOrmEgF #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-10 03:21:28,"b'Cyberattacks Hit Thousands of Canadian Tax, Benefit Accounts https://t.co/5aqbqWuR2J #Threatpost via @SecurityNewsbot'",b'CyberSecDN',b'',['Threatpost'],False,7663
+2020-09-09 22:15:09,b'#Google Squashes Critical #Android Media Framework Bug https://t.co/soOrxRdiOK #Threatpost',b'SecurityNewsbot',b'Internet',"['Google', 'Android', 'Threatpost']",False,12319
+2020-09-09 21:28:05,b'Zeppelin Ransomware Returns with New Trojan on Board https://t.co/yIRYLZuFZE #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-09 21:28:04,b'Google Squashes Critical Android Media Framework Bug https://t.co/sVDuNTe9lh #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-09 20:45:09,b'Zeppelin #Ransomware Returns with New #Trojan on Board https://t.co/TQMP8zONE1 #Threatpost',b'SecurityNewsbot',b'Internet',"['Ransomware', 'Trojan', 'Threatpost']",False,12319
+2020-09-09 17:00:09,b'TeamTNT Gains Full #Remote Takeover of #Cloud Instances https://t.co/Zonmbe2Zow #Threatpost',b'SecurityNewsbot',b'Internet',"['Remote', 'Cloud', 'Threatpost']",False,12319
+2020-09-09 16:30:08,b'Severe Industrial Bugs Allow Takeover of Critical Systems https://t.co/ar6oHvAv6M #Threatpost',b'SecurityNewsbot',b'Internet',['Threatpost'],False,12319
+2020-09-09 16:28:23,b'TeamTNT Gains Full Remote Takeover of Cloud Instances https://t.co/E3FnZQVzQ7 #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-09 16:28:22,b'Critical Flaws in 3rd-Party Code Allow Takeover of Industrial Control Systems https://t.co/yAKFe1w1R2 #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-09 12:30:09,b'#Spyware Labeled \xe2\x80\x98TikTok Pro\xe2\x80\x99 Exploits Fears of US Ban https://t.co/ERoirXfD7n #Threatpost',b'SecurityNewsbot',b'Internet',"['Spyware', 'Threatpost']",False,12319
+2020-09-09 12:28:22,b'Spyware Labeled \xe2\x80\x98TikTok Pro\xe2\x80\x99 Exploits Fears of US Ban https://t.co/O6MMO14dnL #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-09 04:12:35,b'\xe2\x97\x8f NEWS \xe2\x97\x8f #ThreatPost #ProprietarySoftware \xe2\x98\x9e Magecart\xe2\x80\x99s Success Paves Way For Cybercriminal Credit Card \xe2\x80\x98Sniffer\xe2\x80\x99 Market https://t.co/sYRZXXIcsU',b'schestowitz',b'North Pole',"['ThreatPost', 'ProprietarySoftware']",False,7849
+2020-09-08 22:45:10,b'#Microsoft\xe2\x80\x99s Patch Tuesday Packed with Critical RCE Bugs https://t.co/CJ1MqKOdpU #Threatpost',b'SecurityNewsbot',b'Internet',"['Microsoft', 'Threatpost']",False,12319
+2020-09-08 22:28:13,b'Microsoft\xe2\x80\x99s Patch Tuesday Packed with Critical RCE Bugs https://t.co/9ONW2DYxhD #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-08 22:28:12,b'Critical Intel Active Management Technology Flaw Allows Privilege Escalation https://t.co/yVK3PtfHSc #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-08 22:00:10,b'Critical #Intel Active Management Technology #Flaw Allows Privilege Escalation https://t.co/0Ou3BORhbw #Threatpost',b'SecurityNewsbot',b'Internet',"['Intel', 'Flaw', 'Threatpost']",False,12319
+2020-09-08 20:06:04,b'Instagram Retained Deleted User #Data Despite GDPR Rules https://t.co/0CTjvBpJIP #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',"['Data', 'Threatpost']",False,7663
+2020-09-08 18:05:58,b'Mac Users Targeted by #Spyware Spreading via Xcode Projects https://t.co/zTkgmEkWoA #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',"['Spyware', 'Threatpost']",False,7663
+2020-09-08 17:28:13,b'Critical Adobe Flaws Allow Attackers to Run JavaScript in Browsers https://t.co/qtQt3r9cK4 #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-08 17:15:09,b'Critical #Adobe Flaws Allow Attackers to Run JavaScript in Browsers https://t.co/ZEyTQ4uJ0w #Threatpost',b'SecurityNewsbot',b'Internet',"['Adobe', 'Threatpost']",False,12319
+2020-09-08 16:30:10,b'Bug in #Google Maps Opened Door to Cross-Site Scripting Attacks https://t.co/5qvQc4Gw2C #Threatpost',b'SecurityNewsbot',b'Internet',"['Google', 'Threatpost']",False,12319
+2020-09-08 15:28:04,b'Cryptobugs Found in Numerous Google Play Store Apps https://t.co/fXCATVgdUn #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-08 15:28:03,b'Bug in Google Maps Opened Door to Cross-Site Scripting Attacks https://t.co/HjyEYPsw7A #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-08 14:45:08,b'Cryptobugs Found in Numerous #Google Play Store Apps https://t.co/b9yVu6w9Xw #Threatpost',b'SecurityNewsbot',b'Internet',"['Google', 'Threatpost']",False,12319
+2020-09-08 00:06:16,b'Critical Flaws in #WordPress Quiz Plugin Allow Site Takeover https://t.co/yMYUykyFW7 #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',"['WordPress', 'Threatpost']",False,7663
+2020-09-07 23:36:15,b'PoC #Exploit Targeting #Apache Struts Surfaces on GitHub https://t.co/xDH0FoM9Ub #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',"['Exploit', 'Apache', 'Threatpost']",False,7663
+2020-09-07 15:15:09,b'How Zero Trust and SASE Can Redefine Network Defenses for #Remote Workforces https://t.co/RhTWIoEfom #Threatpost',b'SecurityNewsbot',b'Internet',"['Remote', 'Threatpost']",False,12319
+2020-09-07 14:28:05,b'How Zero Trust and SASE Can Redefine Network Defenses for Remote Workforces https://t.co/vSA7HKItsx #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-07 13:28:26,b'CEOs Could Be Held Personally Liable for Cyberattacks that Kill https://t.co/oMzh4skSgR #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-07 13:20:42,"b'NSA, #FBI Warn of #Linux #Malware Used in Espionage Attacks https://t.co/JD1HfVXDaD #Threatpost via @SecurityNewsbot'",b'CyberSecDN',b'',"['FBI', 'Linux', 'Malware', 'Threatpost']",False,7663
+2020-09-07 13:15:09,b'CEOs Could Be Held Personally Liable for Cyberattacks that Kill https://t.co/7fceUl26AK #Threatpost',b'SecurityNewsbot',b'Internet',['Threatpost'],False,12319
+2020-09-07 08:20:26,b'Amazon Alexa One-Click Attack Can Divulge Personal #Data https://t.co/WeyK28Y8e7 #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',"['Data', 'Threatpost']",False,7663
+2020-09-07 00:36:18,b'Zoom Faces More Legal Challenges Over End-to-End #Encryption https://t.co/lH0CVydjgb #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',"['Encryption', 'Threatpost']",False,7663
+2020-09-06 23:06:14,b'High-Severity TinyMCE Cross-Site Scripting #Flaw Fixed https://t.co/L0qDEKNqhz #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',"['Flaw', 'Threatpost']",False,7663
+2020-09-06 19:36:01,b'ReVoLTE Attack Allows #Hackers to Listen in on Mobile Calls https://t.co/T3OuxuRYL9 #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',"['Hackers', 'Threatpost']",False,7663
+2020-09-06 16:05:51,"b'CactusPete APT Hones Toolset, Resurfaces with New #Espionage Targets https://t.co/PM7XBcyVw0 #Threatpost via @SecurityNewsbot'",b'CyberSecDN',b'',"['Espionage', 'Threatpost']",False,7663
+2020-09-06 14:35:46,b'Citrix Warns of Critical Flaws in XenMobile Server https://t.co/bWbypyYGoQ #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',['Threatpost'],False,7663
+2020-09-05 20:06:04,b'TikTok Surreptitiously Collected #Android User #Data Using Google-Prohibited Tactic https://t.co/Dw2pYdcDdz #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',"['Android', 'Data', 'Threatpost']",False,7663
+2020-09-05 07:24:26,b'[ThreatPost] Social Media: Thwarting The Phishing-Data Goldmine --&gt; Cybercriminals can use social media in many ways in order to trick employees. by Brian Foster #ThreatPost https://t.co/G01dOhTeZB',b'gastronomy',"b'Bangkok, Thailand'",['ThreatPost'],False,1409
+2020-09-05 03:50:35,"b'\xe2\x97\x8f NEWS \xe2\x97\x8f #ThreatPost  \xe2\x98\x9e #NSA Mass #Surveillance Program Illegal, U.S. Court Rules https://t.co/gh0hZXCpBh'",b'schestowitz',b'North Pole',"['ThreatPost', 'NSA', 'Surveillance']",False,7849
+2020-09-04 21:21:08,"b'Cybersecurity Skills Gap Worsens, Fueled by Lack of Career Development https://t.co/QXNP9ilmyI #Threatpost via @SecurityNewsbot'",b'CyberSecDN',b'',['Threatpost'],False,7663
+2020-09-04 20:21:05,"b'Samsung Quietly Fixed Critical Galaxy Flaws Allowing #Spying, #Data Wiping https://t.co/fedHSPySLx #Threatpost via @SecurityNewsbot'",b'CyberSecDN',b'',"['Spying', 'Data', 'Threatpost']",False,7663
+2020-09-04 19:30:09,b'#Facebook Debuts Third-Party #Vulnerability #Disclosure Policy https://t.co/M2n4Wo1FtT #Threatpost',b'SecurityNewsbot',b'Internet',"['Facebook', 'Vulnerability', 'Disclosure', 'Threatpost']",False,12319
+2020-09-04 19:30:09,b'Social Media: Thwarting The Phishing-Data Goldmine https://t.co/IpvcLW4mSH #Threatpost',b'SecurityNewsbot',b'Internet',['Threatpost'],False,12319
+2020-09-04 18:28:31,b'Social Media: Thwarting The Phishing-Data Goldmine https://t.co/ycgI8JrewD #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-04 17:28:09,b'Vulnerability Disclosure: Ethical Hackers Seek Best Practices https://t.co/zfhAqdL9hs #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-04 17:15:08,b'#Vulnerability #Disclosure: Ethical #Hackers Seek Best Practices https://t.co/0LCaQhIr9X #Threatpost',b'SecurityNewsbot',b'Internet',"['Vulnerability', 'Disclosure', 'Hackers', 'Threatpost']",False,12319
+2020-09-04 16:28:07,b'Facebook Debuts Third-Party Vulnerability Disclosure Policy https://t.co/bDBuMTDqqw #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-04 16:28:06,b'Attackers Steal Outlook Credentials Via Overlay Screens on Legitimate Sites https://t.co/1ggO5vZ0Im #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-04 16:15:08,b'Attackers Steal Outlook Credentials Via Overlay Screens on Legitimate Sites https://t.co/S9LxRCbCFo #Threatpost',b'SecurityNewsbot',b'Internet',['Threatpost'],False,12319
+2020-09-04 13:45:08,b'WhatsApp Discloses 6 Bugs via Dedicated #Security Site https://t.co/N0MBwoFIZx #Threatpost',b'SecurityNewsbot',b'Internet',"['Security', 'Threatpost']",False,12319
+2020-09-04 13:28:09,b'WhatsApp Discloses 6 Bugs via Dedicated Security Site https://t.co/S9qI6ENtkc #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-04 12:35:40,b'Agent Tesla #Spyware Adds Fresh Tricks to Its Arsenal https://t.co/z4gWOMsz3N #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',"['Spyware', 'Threatpost']",False,7663
+2020-09-04 08:30:09,"b'India Blocks High-Profile Chinese Apps on Political, #Privacy Concerns https://t.co/IY9igC4jMy #Threatpost'",b'SecurityNewsbot',b'Internet',"['Privacy', 'Threatpost']",False,12319
+2020-09-04 07:35:24,b'Researcher Publishes Bypass for Patch for vBulletin 0-Day #Flaw https://t.co/hPM3PeVNxI #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',"['Flaw', 'Threatpost']",False,7663
+2020-09-04 04:28:21,"b'India Blocks High-Profile Chinese Apps on Political, Privacy Concerns https://t.co/jDGgGxJ7Ok #ThreatPost'",b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-03 19:36:03,b'#DDoS Attacks Cresting Amid Pandemic https://t.co/7wf3cFsiUm #Threatpost via @SecurityNewsbot',b'CyberSecDN',b'',"['DDoS', 'Threatpost']",False,7663
+2020-09-03 18:30:09,b'Attackers Can #Exploit Critical #Cisco Jabber #Flaw With One Message https://t.co/iJFjk8UGsW #Threatpost',b'SecurityNewsbot',b'Internet',"['Exploit', 'Cisco', 'Flaw', 'Threatpost']",False,12319
+2020-09-03 18:28:19,b'Attackers Can Exploit Critical Cisco Jabber Flaw With One Message https://t.co/zHAvyEoWoK #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-03 18:15:08,b'#Google Ups Product-Abuse Bug Bounties https://t.co/vrMxjDv1Rf #Threatpost',b'SecurityNewsbot',b'Internet',"['Google', 'Threatpost']",False,12319
+2020-09-03 17:28:17,b'Google Ups Product-Abuse Bug Bounties https://t.co/VUBuG56XAe #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-03 16:28:09,b'Python-based Spy RAT Emerges to Target FinTech https://t.co/AcqkYdRWlU #ThreatPost',b'G3fu1',b'\xe6\x97\xa5\xe6\x9c\xac',['ThreatPost'],False,55
+2020-09-03 16:00:10,b'Python-based Spy RAT Emerges to Target FinTech https://t.co/pmxnPc8sje #Threatpost',b'SecurityNewsbot',b'Internet',['Threatpost'],False,12319
