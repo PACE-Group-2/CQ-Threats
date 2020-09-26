@@ -4,4 +4,4 @@
 1. Change the location of excel file to be export (code at the very end)
 
 ## Need to be fixed
-1. Change the date column to date-type
+1. fix the location, using google api or anything
