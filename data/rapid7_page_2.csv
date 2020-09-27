@@ -1,0 +1,61 @@
+Threat_date,Title,Threat_level,Summary,Source,Location
+2020-09-25,"
+                                Cisco XE: CVE-2020-3513: Cisco IOS XE Software for Cisco ASR 900 Series Route Switch Processor 3 Arbitrary Code Execution Vulnerabilities
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3513,-
+2020-09-25,"
+                                Wireshark : CVE-2020-25866 : BLIP dissector crash
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/wireshark-cve-2020-25866,-
+2020-09-25,"
+                                Cisco IOS: CVE-2020-3477: Cisco IOS and IOS XE Software Information Disclosure Vulnerability
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-ios-cve-2020-3477,-
+2020-09-25,"
+                                Cisco IOS: CVE-2020-3512: Cisco IOS and IOS XE Software PROFINET Link Layer Discovery Protocol Denial of Service Vulnerability
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-ios-cve-2020-3512,-
+2020-09-25,"
+                                Cisco IOS: CVE-2020-3426: Cisco IOS Software for Cisco Industrial Routers  Virtual-LPWA  Unauthorized Access Vulnerability
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-ios-cve-2020-3426,-
+2020-09-25,"
+                                OS X update for ImageIO (CVE-2020-9961)
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/apple-osx-imageio-cve-2020-9961,-
+2020-09-25,"
+                                OS X update for Mail (CVE-2020-9941)
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/apple-osx-mail-cve-2020-9941,-
+2020-09-25,"
+                                Cisco IOS: CVE-2020-3479: Cisco IOS and IOS XE Software MP-BGP EVPN Denial of Service Vulnerability
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-ios-cve-2020-3479,-
+2020-09-25,"
+                                Cisco IOS: CVE-2020-3511: Cisco IOS and IOS XE Software ISDN Q.931 Denial of Service Vulnerability
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-ios-cve-2020-3511,-
+2020-09-25,"
+                                Cisco IOS: CVE-2020-3408: Cisco IOS and IOS XE Software Split DNS Denial of Service Vulnerability
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-ios-cve-2020-3408,-
+2020-09-25,"
+                                Cisco IOS: CVE-2020-3409: Cisco IOS and IOS XE Software PROFINET Denial of Service Vulnerability
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-ios-cve-2020-3409,-
+2020-09-25,"
+                                Cisco XE: CVE-2020-3509: Cisco IOS XE Software for Cisco cBR-8 Converged Broadband Routers DHCP Denial of Service Vulnerability
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3509,-
+2020-09-25,"
+                                Cisco XE: CVE-2020-3487: Cisco IOS XE Wireless Controller Software for the Catalyst 9000 Family CAPWAP Denial of Service Vulnerabilities
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3487,-
+2020-09-25,"
+                                Cisco XE: CVE-2020-3489: Cisco IOS XE Wireless Controller Software for the Catalyst 9000 Family CAPWAP Denial of Service Vulnerabilities
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3489,-
+2020-09-25,"
+                                Cisco XE: CVE-2020-3492: Cisco IOS XE Software for Catalyst 9800 Series and Cisco AireOS Software for Cisco WLC Flexible NetFlow Version 9 Denial of Service Vulnerability
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3492,-
+2020-09-25,"
+                                Cisco XE: CVE-2020-3474: Cisco IOS XE Software Web Management  Framework Vulnerabilities
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3474,-
+2020-09-25,"
+                                Cisco XE: CVE-2020-3493: Cisco IOS XE Wireless Controller Software for the Catalyst 9000 Family CAPWAP Denial of Service Vulnerabilities
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3493,-
+2020-09-25,"
+                                Cisco XE: CVE-2020-3465: Cisco IOS XE Software Ethernet Frame Denial of Service Vulnerability
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3465,-
+2020-09-25,"
+                                Cisco XE: CVE-2020-3359: Cisco IOS XE Software for Catalyst 9800 Series Wireless Controllers Multicast DNS Denial of Service Vulnerability
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3359,-
+2020-09-25,"
+                                Cisco XE: CVE-2020-3429: Cisco IOS XE Wireless Controller Software for the Catalyst 9000 Family WPA Denial of Service Vulnerability
+                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3429,-
