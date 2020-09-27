@@ -1,0 +1,240 @@
+{
+    "22/09/2020": {
+        "Threat_date": "22/09/2020",
+        "Title": "Netlogon Elevation of Privilege Vulnerability (CVE-2020-1472) ",
+        "Threat_level": "HIGH",
+        "Summary": "The ACSC is aware of a recently disclosed critical vulnerability in Microsoft Active Directory Domain Controller systems that allows unauthenticated attackers to trivially access administrative credentials. ",
+        "Source": "https://www.cyber.gov.au/node/2864"
+    },
+    "18/09/2020": {
+        "Threat_date": "18/09/2020",
+        "Title": "Active exploitation of vulnerable MobileIron products",
+        "Threat_level": "HIGH",
+        "Summary": "The ACSC is aware of active exploitation of vulnerabilities in multiple MobileIron products by malicious cyber actors; including sophisticated state-based actors.",
+        "Source": "https://www.cyber.gov.au/node/2863"
+    },
+    "16/09/2020": {
+        "Threat_date": "16/09/2020",
+        "Title": "Copy-paste compromises",
+        "Threat_level": "HIGH",
+        "Summary": "The Australian Government is aware of; and responding to; a sustained targeting of Australian governments and companies by a sophisticated state-based actor. The title \u00e2\u20ac\u02dcCopy-paste compromises\u00e2\u20ac\u2122 is derived from the actor\u00e2\u20ac\u2122s heavy use of tools copied almost identically from open source.",
+        "Source": "https://www.cyber.gov.au/node/2648"
+    },
+    "13/08/2020": {
+        "Threat_date": "13/08/2020",
+        "Title": "Phone scams impersonating Australian businesses and government agencies",
+        "Threat_level": "HIGH",
+        "Summary": "Cybercriminals are spoofing Australian mobile numbers and pretending to be from an Australian Government agency; delivery company or business; manipulating the individual to gain access to their device.",
+        "Source": "https://www.cyber.gov.au/node/2811"
+    },
+    "2/08/2020": {
+        "Threat_date": "2/08/2020",
+        "Title": "Ransomware targeting Australian aged care and healthcare sectors",
+        "Threat_level": "CRITICAL",
+        "Summary": "ACSC is aware of increasing targeting of healthcare; including hospitals and aged care; by ransomware campaigns undertaken by cyber criminals. ",
+        "Source": "https://www.cyber.gov.au/node/2749"
+    },
+    "16/07/2020": {
+        "Threat_date": "16/07/2020",
+        "Title": "Increasing reports of myGov-related SMS and email scams targeting Australians",
+        "Threat_level": "HIGH",
+        "Summary": "Be on the lookout for myGov-related SMS and email scams asking you to verify your myGov details. ",
+        "Source": "https://www.cyber.gov.au/node/2723"
+    },
+    "15/07/2020": {
+        "Threat_date": "15/07/2020",
+        "Title": "Remote code execution vulnerability in Windows DNS (CVE-2020-1350)",
+        "Threat_level": "CRITICAL",
+        "Summary": "On 14 July 2020; Microsoft acknowledged a critical remote code execution vulnerability in Windows Domain Name System (DNS); which could allow an adversary to run arbitrary code.",
+        "Source": "https://www.cyber.gov.au/node/2725"
+    },
+    "14/07/2020": {
+        "Threat_date": "14/07/2020",
+        "Title": "Critical vulnerability for SAP NetWeaver Application Server (CVE-2020-6287)",
+        "Threat_level": "CRITICAL",
+        "Summary": "On 13 July 2020 (United States EST); enterprise resource planning provider SAP released a security patches for a critical vulnerability affecting the Java component LM Configuration Wizard within the SAP NetWeaver Application Server. ",
+        "Source": "https://www.cyber.gov.au/node/2721"
+    },
+    "6/07/2020": {
+        "Threat_date": "6/07/2020",
+        "Title": "TMUI remote code execution vulnerability - CVE-2020-5902",
+        "Threat_level": "MEDIUM",
+        "Summary": "The ACSC advises users of F5\u00e2\u20ac\u2122s enterprise and data centre BIG-IP products to ensure their systems are promptly patched after the recent disclosure of new remote code execution vulnerability.",
+        "Source": "https://www.cyber.gov.au/node/2712"
+    },
+    "25/05/2020": {
+        "Threat_date": "25/05/2020",
+        "Title": "DDoS threats being made against Australian organisations",
+        "Threat_level": "HIGH",
+        "Summary": "The Australian Signals Directorate's Australian Cyber Security Centre (ACSC) is aware of a number of Denial of Service (DoS) for ransom threats being made against Australian organisations; primarily in the banking and finance sector.",
+        "Source": "https://www.cyber.gov.au/node/1568"
+    },
+    "22/05/2020": {
+        "Threat_date": "22/05/2020",
+        "Title": "Active exploitation of vulnerability in Microsoft Internet Information Services",
+        "Threat_level": "HIGH",
+        "Summary": "The Australian Signals Directorate\u00e2\u20ac\u2122s Australian Cyber Security Centre (ACSC) is aware that sophisticated actors are actively exploiting a deserialisation vulnerability existing in all versions of Microsoft\u00e2\u20ac\u2122s Internet Information Services (IIS) using the .NET framework (.NET). The vulnerability exploits the service\u00e2\u20ac\u2122s VIEWSTATE parameter to allow for remote code execution by unauthorised users.",
+        "Source": "https://www.cyber.gov.au/node/2688"
+    },
+    "20/05/2020": {
+        "Threat_date": "20/05/2020",
+        "Title": "Summary of Tradecraft Trends for 2019-20",
+        "Threat_level": "MEDIUM",
+        "Summary": "The Australian Cyber Security Centre (ACSC) investigated and responded to numerous cyber security incidents during 2019 and 2020 so far.",
+        "Source": "https://www.cyber.gov.au/node/2700"
+    },
+    "8/05/2020": {
+        "Threat_date": "8/05/2020",
+        "Title": "Advanced Persistent Threat (APT) actors targeting Australian health sector organisations and COVID-19 essential services",
+        "Threat_level": "HIGH",
+        "Summary": "The Australian Signals Directorate\u00e2\u20ac\u2122s (ASD) Australian Cyber Security Centre (ACSC) is aware that Advanced Persistent Threat (APT) actors are actively targeting health sector organisations and medical research facilities. ",
+        "Source": "https://www.cyber.gov.au/node/2543"
+    },
+    "16/04/2020": {
+        "Threat_date": "16/04/2020",
+        "Title": "Sextortion email campaign impacting Australians",
+        "Threat_level": "HIGH",
+        "Summary": "A large number of Australians are being impacted by an email \u00e2\u20ac\u02dcsextortion\u00e2\u20ac\u2122 campaign in which the cyber scammers responsible have threatened to release personal and sensitive information to the recipients\u00e2\u20ac\u2122 contacts unless the scammer is paid in cash or bitcoin.",
+        "Source": "https://www.cyber.gov.au/node/2555"
+    },
+    "6/02/2020": {
+        "Threat_date": "6/02/2020",
+        "Title": "2020-003: Mailto ransomware incidents",
+        "Threat_level": "HIGH",
+        "Summary": "The Australian Signals Directorate\u00e2\u20ac\u2122s Australian Cyber Security Centre (ACSC) is aware of recent ransomware incidents involving a ransomware tool known as \u00e2\u20ac\u02dcMailto\u00e2\u20ac\u2122 or \u00e2\u20ac\u02dcKazakavkovkiz\u00e2\u20ac\u2122. Mailto belongs to the KoKo ransomware family.",
+        "Source": "https://www.cyber.gov.au/node/1790"
+    },
+    "29/01/2020": {
+        "Threat_date": "29/01/2020",
+        "Title": "Processors can be exploited by Meltdown and Spectre vulnerabilities",
+        "Threat_level": "HIGH",
+        "Summary": "Security researchers have developed methods involving speculative execution to read kernel memory from user space on a variety of processors from a range of vendors produced in the last decade. These methods have been referred to as Meltdown and Spectre.",
+        "Source": "https://www.cyber.gov.au/node/2640"
+    },
+    "15/01/2020": {
+        "Threat_date": "15/01/2020",
+        "Title": "2020-002: Critical vulnerabilities for Microsoft Windows",
+        "Threat_level": "CRITICAL",
+        "Summary": "On 15 January 2020 (AEDT); Microsoft released security patches for three critical and one important vulnerabilities in the Microsoft Remote Desktop Client; Remote Desktop Gateway and the Windows operating system. The ACSC recommends that users of these products apply patches urgently to prevent malicious actors from using these vulnerabilities to compromise your network.",
+        "Source": "https://www.cyber.gov.au/node/1792"
+    },
+    "13/01/2020": {
+        "Threat_date": "13/01/2020",
+        "Title": "Active exploitation of critical vulnerability in Citrix Application Delivery Controller and Citrix Gateway",
+        "Threat_level": "CRITICAL",
+        "Summary": "The Australian Signals Directorate\u00e2\u20ac\u2122s Australian Cyber Security Centre (ACSC) is aware of ongoing attempts to exploit a critical vulnerability in Citrix Application Delivery Controller (ADC) (formerly known as NetScaler ADC); Citrix Gateway (formerly known as NetScaler Gateway) and Citrix SD-WAN WANOP.",
+        "Source": "https://www.cyber.gov.au/node/1794"
+    },
+    "13/12/2019": {
+        "Threat_date": "13/12/2019",
+        "Title": "Australia Post SMS scam targeting Australians",
+        "Threat_level": "HIGH",
+        "Summary": "With millions of parcel deliveries expected around the country; Australia Post is seeing widespread scam text (SMS) messages being sent to people; using their brand.",
+        "Source": "https://www.cyber.gov.au/node/1931"
+    },
+    "8/11/2019": {
+        "Threat_date": "8/11/2019",
+        "Title": "2019-131a: Emotet malware campaign",
+        "Threat_level": "HIGH",
+        "Summary": "The Australian Signals Directorate\u00e2\u20ac\u2122s Australian Cyber Security Centre (ACSC) has observed an ongoing and widespread campaign of malicious emails designed to spread Emotet across a variety of sectors in the Australian economy; including critical infrastructure providers and government agencies.",
+        "Source": "https://www.cyber.gov.au/node/1796"
+    },
+    "1/10/2019": {
+        "Threat_date": "1/10/2019",
+        "Title": "2019-129: File disclosure vulnerability in Pulse Connect Secure VPN Software",
+        "Threat_level": "HIGH",
+        "Summary": "The Australian Signals Directorate\u00e2\u20ac\u2122s Australian Cyber Security Centre is aware of a vulnerability that exists in the Pulse Connect Secure Virtual Private Network (VPN) solution.",
+        "Source": "https://www.cyber.gov.au/node/1798"
+    },
+    "5/08/2019": {
+        "Threat_date": "5/08/2019",
+        "Title": "2019-130: Password spray attacks",
+        "Threat_level": "HIGH",
+        "Summary": "The Australian Cyber Security Centre (ACSC) is aware of a high volume of ongoing password spray attacks targeting Australian organisations. ",
+        "Source": "https://www.cyber.gov.au/node/1800"
+    },
+    "30/07/2019": {
+        "Threat_date": "30/07/2019",
+        "Title": "ICS-CERT Alerts",
+        "Threat_level": "HIGH",
+        "Summary": "Link to ICS-CERT alerts from the US Department of Homeland Security",
+        "Source": "https://www.cyber.gov.au/node/1823"
+    },
+    "24/07/2019": {
+        "Threat_date": "24/07/2019",
+        "Title": "Sextortion campaign",
+        "Threat_level": "HIGH",
+        "Summary": "The Australian Cyber Security Centre (ACSC) is aware of a sextortion scam email campaign targeting the Australian community. ",
+        "Source": "https://www.cyber.gov.au/node/1802"
+    },
+    "3/07/2019": {
+        "Threat_date": "3/07/2019",
+        "Title": "2019-009: Securing unprotected network and data services",
+        "Threat_level": "HIGH",
+        "Summary": "The Australian Cyber Security Centre (ACSC); the cyber defensive component of the Australian Signals Directorate (ASD); has observed a large number of unprotected network and database/storage services hosted on Australian Internet Protocol (IP) address ranges.\n",
+        "Source": "https://www.cyber.gov.au/node/1805"
+    },
+    "6/06/2019": {
+        "Threat_date": "6/06/2019",
+        "Title": "Microsoft Windows security vulnerability \u00e2\u20ac\u201c \u00e2\u20ac\u02dcBlueKeep\u00e2\u20ac\u2122 (CVE-2019-0708)",
+        "Threat_level": "HIGH",
+        "Summary": "CVE-2019-0708; also known as \u00e2\u20ac\u02dcBlueKeep\u00e2\u20ac\u2122 leaves users open to attack from malicious actors who can exploit a vulnerability via Remote Desktop Services (RDS) on legacy versions of the Windows operating system. ",
+        "Source": "https://www.cyber.gov.au/node/1807"
+    },
+    "6/05/2019": {
+        "Threat_date": "6/05/2019",
+        "Title": "Microsoft SharePoint CVE-2019-0604",
+        "Threat_level": "MEDIUM",
+        "Summary": "The ACSC is aware of malicious cyber actors successfully exploiting a Microsoft SharePoint vulnerability in order to implant web shells on compromised hosts.",
+        "Source": "https://www.cyber.gov.au/node/2662"
+    },
+    "15/03/2019": {
+        "Threat_date": "15/03/2019",
+        "Title": "773M accounts affected by 'Collection #1' breach",
+        "Threat_level": "MEDIUM",
+        "Summary": "The Australian Cyber Security Centre (ACSC) is aware of a significant data breach affecting 773 million email addresses and usernames.",
+        "Source": "https://www.cyber.gov.au/node/2708"
+    },
+    "29/09/2018": {
+        "Threat_date": "29/09/2018",
+        "Title": "Facebook security issue affects 50M user accounts",
+        "Threat_level": "MEDIUM",
+        "Summary": "The ACSC is aware of a security issue affecting 50 million Facebook user accounts whereby a flaw in the 'View As' feature allowed attackers to steal Facebook access tokens; which could be used to take over user's accounts. Access tokens are the equivalent of digital keys that allow users to remain logged into Facebook.",
+        "Source": "https://www.cyber.gov.au/node/2705"
+    },
+    "1/07/2018": {
+        "Threat_date": "1/07/2018",
+        "Title": "Vulnerability in the Drupal content management system",
+        "Threat_level": "CRITICAL",
+        "Summary": "The ACSC has become aware of a critical vulnerability in the Drupal content management system. This potentially allows attackers to exploit multiple attack vectors on a Drupal site; which could result in the site being completely compromised.",
+        "Source": "https://www.cyber.gov.au/node/1813"
+    },
+    "25/05/2018": {
+        "Threat_date": "25/05/2018",
+        "Title": "VPNFilter malware",
+        "Threat_level": "HIGH",
+        "Summary": "Australian users need to be aware of VPNFilter malware. ",
+        "Source": "https://www.cyber.gov.au/node/1820"
+    },
+    "17/04/2018": {
+        "Threat_date": "17/04/2018",
+        "Title": "Routers targeted: Cisco Smart Install feature continues to be targeted by Russian state-sponsored actors",
+        "Threat_level": "HIGH",
+        "Summary": "Russian state-sponsored actors are responsible for activity targeting Cisco devices using the Smart Install feature worldwide; including Australia.",
+        "Source": "https://www.cyber.gov.au/node/1818"
+    },
+    "29/06/2017": {
+        "Threat_date": "29/06/2017",
+        "Title": "Petya ransomware campaign impacting organisations globally",
+        "Threat_level": "HIGH",
+        "Summary": "The ACSC is aware of a global ransomware campaign; Petya. Ransomware is malicious software that makes data or systems unusable until the victim makes a payment.",
+        "Source": "https://www.cyber.gov.au/node/2545"
+    },
+    "15/11/2015": {
+        "Threat_date": "15/11/2015",
+        "Title": "Web shells being used as attack vectors on networks",
+        "Threat_level": "HIGH",
+        "Summary": "This alert highlights the frequent use of web shells as an exploitation vector. Web shells can be used to leverage unauthorised access and can lead to wider network compromise. ",
+        "Source": "https://www.cyber.gov.au/node/1253"
+    }
+}
