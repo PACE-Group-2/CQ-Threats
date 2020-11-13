@@ -1,61 +1,21 @@
-Threat_date,Title,Threat_level,Summary,Source,Location
-2020-09-25,"
-                                OS X update for Mail (CVE-2020-9941)
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/apple-osx-mail-cve-2020-9941,-
-2020-09-25,"
-                                OS X update for Model I/O (CVE-2020-9973)
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/apple-osx-modelio-cve-2020-9973,-
-2020-09-25,"
-                                Cisco IOS: CVE-2020-3408: Cisco IOS and IOS XE Software Split DNS Denial of Service Vulnerability
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-ios-cve-2020-3408,-
-2020-09-25,"
-                                Cisco IOS: CVE-2020-3479: Cisco IOS and IOS XE Software MP-BGP EVPN Denial of Service Vulnerability
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-ios-cve-2020-3479,-
-2020-09-25,"
-                                Cisco IOS: CVE-2020-3409: Cisco IOS and IOS XE Software PROFINET Denial of Service Vulnerability
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-ios-cve-2020-3409,-
-2020-09-25,"
-                                Cisco IOS: CVE-2020-3511: Cisco IOS and IOS XE Software ISDN Q.931 Denial of Service Vulnerability
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-ios-cve-2020-3511,-
-2020-09-25,"
-                                Wireshark : CVE-2020-25866 : BLIP dissector crash
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/wireshark-cve-2020-25866,-
-2020-09-25,"
-                                Cisco XE: CVE-2020-3465: Cisco IOS XE Software Ethernet Frame Denial of Service Vulnerability
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3465,-
-2020-09-25,"
-                                Cisco XE: CVE-2020-3141: Cisco IOS XE Software Privilege Escalation Vulnerabilities
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3141,-
-2020-09-25,"
-                                Cisco XE: CVE-2020-3489: Cisco IOS XE Wireless Controller Software for the Catalyst 9000 Family CAPWAP Denial of Service Vulnerabilities
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3489,-
-2020-09-25,"
-                                Cisco XE: CVE-2020-3497: Cisco IOS XE Wireless Controller Software for the Catalyst 9000 Family CAPWAP Denial of Service Vulnerabilities
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3497,-
-2020-09-25,"
-                                Cisco XE: CVE-2020-3488: Cisco IOS XE Wireless Controller Software for the Catalyst 9000 Family CAPWAP Denial of Service Vulnerabilities
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3488,-
-2020-09-25,"
-                                Cisco XE: CVE-2020-3475: Cisco IOS XE Software Web Management  Framework Vulnerabilities
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3475,-
-2020-09-25,"
-                                Cisco XE: CVE-2020-3527: Cisco Catalyst 9200 Series Switches Jumbo Frame Denial of Service Vulnerability
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3527,-
-2020-09-25,"
-                                Cisco XE: CVE-2020-3474: Cisco IOS XE Software Web Management  Framework Vulnerabilities
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3474,-
-2020-09-25,"
-                                Cisco XE: CVE-2020-3429: Cisco IOS XE Wireless Controller Software for the Catalyst 9000 Family WPA Denial of Service Vulnerability
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3429,-
-2020-09-25,"
-                                Cisco XE: CVE-2020-3418: Cisco IOS XE Wireless Controller Software for the Catalyst 9000 Family Improper Access Control Vulnerability
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3418,-
-2020-09-25,"
-                                Cisco XE: CVE-2020-3404: Cisco IOS XE Software Consent Token Bypass Vulnerability
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3404,-
-2020-09-25,"
-                                Cisco XE: CVE-2020-3400: Cisco IOS XE Software Web UI Authorization Bypass Vulnerability
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3400,-
-2020-09-25,"
-                                Cisco XE: CVE-2020-3487: Cisco IOS XE Wireless Controller Software for the Catalyst 9000 Family CAPWAP Denial of Service Vulnerabilities
-                            ",4,-,https://www.rapid7.com/db/vulnerabilities/cisco-xe-cve-2020-3487,-
+Threat_date,Title,Summary,Source,Location,Threat_level
+2020-11-10,Microsoft CVE-2020-17001: Windows Print Spooler Elevation of Privilege Vulnerability,,https://www.rapid7.com/db/vulnerabilities/msft-cve-2020-17001/,,4
+2020-11-10,Microsoft CVE-2020-17033: Windows Remote Access Elevation of Privilege Vulnerability,,https://www.rapid7.com/db/vulnerabilities/msft-cve-2020-17033/,,4
+2020-11-10,Microsoft CVE-2020-17004: Windows Graphics Component Information Disclosure Vulnerability,,https://www.rapid7.com/db/vulnerabilities/msft-cve-2020-17004/,,4
+2020-11-10,Microsoft CVE-2020-16997: Remote Desktop Protocol Server Information Disclosure Vulnerability,,https://www.rapid7.com/db/vulnerabilities/msft-cve-2020-16997/,,4
+2020-11-10,Microsoft CVE-2020-17087: Windows Kernel Local Elevation of Privilege Vulnerability,,https://www.rapid7.com/db/vulnerabilities/msft-cve-2020-17087/,,4
+2020-11-10,Microsoft CVE-2020-16979: Microsoft SharePoint Information Disclosure Vulnerability,,https://www.rapid7.com/db/vulnerabilities/msft-cve-2020-16979/,,4
+2020-11-10,Microsoft CVE-2020-16898: Windows TCP/IP Remote Code Execution Vulnerability,,https://www.rapid7.com/db/vulnerabilities/msft-cve-2020-16898/,,6
+2020-11-10,Microsoft CVE-2020-17077: Windows Update Stack Elevation of Privilege Vulnerability,,https://www.rapid7.com/db/vulnerabilities/msft-cve-2020-17077/,,4
+2020-11-10,Microsoft CVE-2020-17055: Windows Remote Access Elevation of Privilege Vulnerability,,https://www.rapid7.com/db/vulnerabilities/msft-cve-2020-17055/,,4
+2020-11-10,Microsoft CVE-2020-17020: Microsoft Word Security Feature Bypass Vulnerability,,https://www.rapid7.com/db/vulnerabilities/msft-cve-2020-17020/,,4
+2020-11-10,Microsoft CVE-2020-17053: Internet Explorer Memory Corruption Vulnerability,,https://www.rapid7.com/db/vulnerabilities/msft-cve-2020-17053/,,4
+2020-11-10,Microsoft CVE-2020-17024: Windows Client Side Rendering Print Provider Elevation of Privilege Vulnerability,,https://www.rapid7.com/db/vulnerabilities/msft-cve-2020-17024/,,4
+2020-11-10,Microsoft CVE-2020-17041: Windows Print Configuration Elevation of Privilege Vulnerability,,https://www.rapid7.com/db/vulnerabilities/msft-cve-2020-17041/,,4
+2020-11-10,Microsoft CVE-2020-17027: Windows Remote Access Elevation of Privilege Vulnerability,,https://www.rapid7.com/db/vulnerabilities/msft-cve-2020-17027/,,4
+2020-11-10,Microsoft CVE-2020-1472: (Zerologon) Netlogon Elevation of Privilege Vulnerability,,https://www.rapid7.com/db/vulnerabilities/msft-cve-2020-1472/,,9
+2020-11-10,Microsoft CVE-2020-17067: Microsoft Excel Security Feature Bypass Vulnerability,,https://www.rapid7.com/db/vulnerabilities/microsoft-office-cve-2020-17067/,,4
+2020-11-10,Microsoft CVE-2020-17065: Microsoft Excel Remote Code Execution Vulnerability,,https://www.rapid7.com/db/vulnerabilities/microsoft-office-cve-2020-17065/,,4
+2020-11-10,Microsoft CVE-2020-17020: Microsoft Word Security Feature Bypass Vulnerability,,https://www.rapid7.com/db/vulnerabilities/microsoft-office-cve-2020-17020/,,4
+2020-11-10,Microsoft CVE-2020-17062: Microsoft Office Access Connectivity Engine Remote Code Execution Vulnerability,,https://www.rapid7.com/db/vulnerabilities/microsoft-office-cve-2020-17062/,,4
+2020-11-10,Microsoft CVE-2020-17063: Microsoft Office Online Spoofing Vulnerability,,https://www.rapid7.com/db/vulnerabilities/microsoft-office-cve-2020-17063/,,4
